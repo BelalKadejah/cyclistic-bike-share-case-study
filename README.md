@@ -64,7 +64,23 @@ These patterns suggest strong opportunities for targeted conversion campaigns, c
 
 ## Dashboard Preview
 
-_Add dashboard screenshots here once uploaded._
+### Cover Page
+![Cover Page](Images/cover.png)
+
+### Ride Volume and Duration Insights
+![Ride Volume and Duration Insights](Images/ride-volume-duration.png)
+
+### Trip Types: Annual vs. Casual Users
+![Trip Types](Images/trip-types.png)
+
+### Monthly Ride Trend
+![Monthly Ride Trend](Images/monthly-trend.png)
+
+### Hourly Ride Patterns
+![Hourly Ride Patterns](Images/hourly-patterns.png)
+
+### Ride Duration Breakdown
+![Ride Duration Breakdown](Images/ride-duration-breakdown.png)
 
 ## Conclusion
 
